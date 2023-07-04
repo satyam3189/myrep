@@ -21,3 +21,8 @@ console.log("main branch file1 line 19");
 console.log("main branch file1 line 21");
 
 console.log("main branch file1 line 23");
+console.log("b2 branch file1 line 17");
+
+console.log("b2 branch file1 line 19");
+
+console.log("b2 branch file1 line 21");
